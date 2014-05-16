@@ -9,7 +9,6 @@ Many people’s version-control method of choice is to copy files into another d
 
 To deal with this issue, programmers long ago developed local VCSs that had a simple database that kept all the changes to files under revision control (see Figure 1-1).
 
-[link](http://gitbookio.github.io/git/en/getting_started/about_version_control.html)
 
 ![test image](./img/crash-square.png)
 
