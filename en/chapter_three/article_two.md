@@ -11,7 +11,7 @@ To deal with this issue, programmers long ago developed local VCSs that had a si
 
 [link](http://gitbookio.github.io/git/en/getting_started/about_version_control.html)
 
-![test image](/Users/shona/Desktop/Gitbook Test/crash-square.png)
+![test image](./img/crash-square.png)
 
 This creates a `new` subdirectory named ```.git
 ``` that contains all of your necessary repository files — a Git repository skeleton. At this point, nothing in your project is tracked yet. (See Chapter 9 for more information about exactly what files are contained in the .git directory you just created.)

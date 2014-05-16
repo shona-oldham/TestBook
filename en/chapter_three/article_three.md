@@ -9,9 +9,9 @@ Many people’s version-control method of choice is to copy files into another d
 
 To deal with this issue, programmers long ago developed local VCSs that had a simple database that kept all the changes to files under revision control (see Figure 1-1).
 
-[link](http://gitbookio.github.io/git/en/getting_started/about_version_control.html)
+[video](https://www.youtube.com/watch?v=mke0_MePWxU)
 
-![test image](/Users/shona/Desktop/Gitbook Test/crash-square.png)
+![test image](./img/crash-square.png)
 
 This creates a `new` subdirectory named ```.git
 ``` that contains all of your necessary repository files — a Git repository skeleton. At this point, nothing in your project is tracked yet. (See Chapter 9 for more information about exactly what files are contained in the .git directory you just created.)
