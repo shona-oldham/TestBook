@@ -1,14 +1,17 @@
 CACHE MANIFEST
-# Revision 1399543386563
+# Revision 1400237715359
 
 CACHE:
 index.html
+chapter_one/README.html
 chapter_one/article_one.html
 chapter_one/article_three.html
 chapter_one/article_two.html
+chapter_three/README.html
 chapter_three/article_one.html
 chapter_three/article_three.html
 chapter_three/article_two.html
+chapter_two/README.html
 chapter_two/article_one.html
 chapter_two/article_three.html
 chapter_two/article_two.html
