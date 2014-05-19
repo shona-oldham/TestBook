@@ -10,12 +10,12 @@
             "token": "UA-32549768-2"
         },
         "disqus": {
-            "shortName": "name"
+            "shortName": "MaidSafe Examples"
     }
 },
     "links": {
         "home": "http://google.com",
-        "about": "http://google.com",
+        "about": "http://maidsafe.net",
         "issues": "http://github.com",
         "contribute": "http://google.com",
         "sharing": {
