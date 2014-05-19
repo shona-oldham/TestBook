@@ -4,13 +4,20 @@
     "description": "This is a test book",
     "github": null,
     "githubHost": "https://github.com/",
-    "plugins": [],
-    "pluginsConfig": {},
+    "plugins": ["ga", "disqus"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-32549768-2"
+        },
+        "disqus": {
+            "shortName": "name"
+    }
+},
     "links": {
         "home": "http://google.com",
-        "about": "http://maidsafe.net",
+        "about": "http://google.com",
         "issues": "http://github.com",
-        "contribute": "http://facebook.com",
+        "contribute": "http://google.com",
         "sharing": {
             "google": null,
             "facebook": null,
