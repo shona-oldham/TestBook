@@ -1,12 +1,12 @@
 CACHE MANIFEST
-# Revision 1400496229027
+# Revision 1400496847591
 
 CACHE:
 index.html
 chapter_one/README.html
 chapter_one/article_one.html
-chapter_one/article_two.html
 chapter_one/article_three.html
+chapter_one/article_two.html
 chapter_three/README.html
 chapter_three/article_one.html
 chapter_three/article_three.html
@@ -52,9 +52,9 @@ gitbook/jsrepl/sandbox.js
 gitbook/print.css
 gitbook/style.css
 gitbook/plugins/gitbook-plugin-ga/plugin.js
-gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
 gitbook/plugins/gitbook-plugin-disqus/plugin.js
 gitbook/plugins/gitbook-plugin-mathjax/plugin.js
+gitbook/plugins/gitbook-plugin-mixpanel/plugin.js
 
 NETWORK:
 *
